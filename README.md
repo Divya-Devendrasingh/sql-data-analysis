@@ -1,24 +1,43 @@
-# SQL Data Analysis
+# SQL Data Analyst Portfolio
 
-This repository contains my practice and learning of SQL concepts used in Data Analysis.
+This repository contains SQL practice and real-world projects covering:
 
----
+- Data cleaning
+- Aggregations
+- Joins
+- Window functions
+- Business case analysis
+
+Tools used:
+- MySQL / PostgreSQL
+- Real datasets (sales, e-commerce)
 
 ## 📌 Topics Covered
 
-- Basic Queries (SELECT, WHERE)
-- Aggregation (GROUP BY, HAVING)
-- Window Functions (RANK, DENSE_RANK)
+# SQL Basics
+
+This folder contains foundational SQL queries including:
+
+- Filtering using WHERE
+- Pattern matching using LIKE
+- Sorting using ORDER BY
+- Conditional logic (AND, NOT, BETWEEN)
+
+Dataset used:
+employees table (id, name, department, salary, joining_date)
 
 ---
 
 ## 📂 Project Structure
 ```
-sql-data-analysis/
+sql-data-analyst-portfolio/
 │
-├── basic_queries.sql
-├── aggregation.sql
-├── window_functions.sql
+├── sql-basics/
+├── sql-joins/
+├── sql-aggregation/
+├── sql-intermediate/
+├── sql-advanced/
+├── sql-projects/
 │
 └── README.md
 ```
