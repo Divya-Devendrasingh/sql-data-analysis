@@ -43,19 +43,19 @@ sql-data-analyst-portfolio/
 │   └── README.md
 ├── sql-intermediate/
 │   ├── an_intro_of_sql_intermediate.md
-│   ├── sql-joins/
+│   ├── joins/
 │   │   ├── data_setup.sql
 │   │   ├── basic_joins.sql
 │   │   ├── join_with_conditions.sql
 │   │   ├── joins_with_aggregation.sql
 │   │   └── README.md
 │
-│   ├── sql-aggregation/
+│   ├── aggregation/
 │   │   ├── group_by.sql
 │   │   ├── having.sql
 │   │   └── README.md
 │
-│   ├── sql-window-functions/
+│   ├── window-functions/
 │   │   ├── row_number.sql
 │   │   ├── rank_dense_rank.sql
 │   │   └── README.md
