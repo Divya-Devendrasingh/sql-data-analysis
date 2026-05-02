@@ -78,7 +78,7 @@ This section covers foundational SQL concepts:
 ---
 
 ## 📌 SQL Intermediate
-## 🔗 SQL Joins
+## 🔗 Joins
 
 This section focuses on combining data from multiple tables.
 
@@ -97,7 +97,29 @@ This section focuses on combining data from multiple tables.
 - INNER JOIN → matching records  
 - LEFT JOIN → keeps all left table data  
 - NULL filtering → identify missing relationships  
-- Aggregations → derive business insights  
+- Aggregations → derive business insights
+
+## 🔗Aggregation
+
+This folder contains SQL queries using GROUP BY and HAVING for data analysis.
+
+## Topics Covered:
+- GROUP BY basics
+- Aggregate functions (COUNT, SUM, AVG)
+- HAVING clause for filtering groups
+- Aggregations with JOIN
+- Identifying missing data using LEFT JOIN
+
+## Key Learnings:
+- GROUP BY groups rows for aggregation
+- HAVING filters aggregated results
+- LEFT JOIN helps include missing data
+- Aggregations are used for business insights
+
+## Use Cases:
+- Customer order analysis
+- Revenue calculation
+- Performance tracking
 
 ---
 
