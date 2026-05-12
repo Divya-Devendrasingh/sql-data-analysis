@@ -8,7 +8,8 @@ This repository contains SQL practice and real-world projects covering:
 
 - SQL Basics → Filtering, Sorting, Functions  
 - SQL Intermediate → Joins, Aggregations, Case-When, Subqueries, Window Functions  
-- SQL Advanced → (Coming soon)  
+- SQL Advanced → CTEs, Set Operations, Grouping Sets, Rollup & Cube, Date & Time Functions,
+                  String Functions, Indexing, Advanced Join Types, Query Optimization 
 - SQL Projects → (Coming soon)
 
 ---
