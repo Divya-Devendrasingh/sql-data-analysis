@@ -87,6 +87,13 @@ This section covers foundational SQL concepts:
 
 ## 📌 SQL Intermediate
 
+**Dataset used:**  
+### Intermediate SQL
+- Customers (customer_id, name, city)
+- Orders (order_id, customer_id, amount, order_date)
+- Customers_India (customer_id, name)
+- Customers_US (customer_id, name)
+
 ## 🔗 Joins
 
 This section focuses on combining data from multiple tables.
@@ -198,6 +205,18 @@ This folder contains SQL queries using window functions to perform calculations 
 - Running totals and trend analysis
 
 ## 📌 SQL Advanced
+
+**Dataset used:**  
+### Advanced SQL
+- Customers (customer_id, name, city, email, address)
+- Orders (order_id, customer_id, amount, order_date)
+- Employees (employee_id, employee_name, department, salary, joining_date)
+- Sales (region, product, sales)
+- Customers_India (customer_id, name, email)
+- Customers_USA (customer_id, name, email)
+- table_a (id)
+- table_b (id)
+- Products (product_id, product_name)
 
 ## Topics Covered:
 - Common Table Expressions (CTEs)
