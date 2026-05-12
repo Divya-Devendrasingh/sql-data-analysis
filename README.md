@@ -53,6 +53,17 @@ sql-data-analyst-portfolio/
 │   │   ├── row_number.sql
 │   │   └── rank_dense_rank.sql
 ├── sql-advanced/
+│   ├── cte_queries.sql
+│   ├── window_functions.sql
+│   ├── subqueries.sql
+│   ├── case_when.sql
+│   ├── union_unionall.sql
+│   ├── intersect_except.sql
+│   ├── grouping_sets_rollup_cube.sql
+│   ├── date_functions.sql
+│   ├── string_functions.sql
+│   ├── indexing.sql
+│   └── advanced_join_types.sql
 ├── sql-projects/
 │
 └── README.md
@@ -184,7 +195,42 @@ This folder contains SQL queries using window functions to perform calculations 
 - Top N records per group  
 - Latest record per customer  
 - Ranking customers/orders  
-- Running totals and trend analysis 
+- Running totals and trend analysis
+
+## 📌 SQL Advanced
+
+## Topics Covered:
+- Common Table Expressions (CTEs)
+- Window Functions
+- Advanced Subqueries
+- CASE WHEN logic
+- UNION and UNION ALL
+- INTERSECT and EXCEPT
+- GROUPING SETS, ROLLUP, and CUBE
+- Date & Time Functions
+- String Functions
+- Indexing
+- Advanced Join Types
+
+## Key Learnings:
+- CTEs help simplify complex queries
+- Window functions enable advanced analytical calculations
+- Subqueries support multi-step filtering and comparisons
+- CASE WHEN applies business logic within queries
+- Set operations combine and compare datasets efficiently
+- Date and string functions help clean and transform data
+- Indexing improves query performance
+- Advanced joins help analyze matched and unmatched data
+
+## Use Cases:
+- Customer segmentation
+- Revenue and sales analysis
+- Ranking and trend analysis
+- Data cleaning and formatting
+- Report generation
+- Query optimization
+- Identifying missing or duplicate records
+- Advanced business analytics
 
 ---
 
